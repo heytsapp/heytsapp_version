@@ -1,5 +1,5 @@
 {
   "latest_version": "1.1.0",
-  "download_url": "https://heytsapp.com/download/Heytsapp_1.1.0_setup.exe",
+  "download_url": "https://github.com/heytsapp/heytsapp_version/releases/download/v1.0/Heytsapp.exe",
   "release_notes": "- تم إصلاح مشكلة في إرسال المرفقات.\n- تحسين سرعة استجابة الواجهة.\n- إضافة دعم الرد على حالات الواتساب."
 }
