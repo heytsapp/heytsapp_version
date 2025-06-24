@@ -1,10 +1,16 @@
 {
-  "latest_version": "1.2.0",
-  "download_url": "...",
-  "release_notes": [
-    "تم إصلاح مشكلة في إرسال المرفقات.",
-    "تحسين سرعة استجابة الواجهة.",
-    "إضافة دعم الرد على حالات الواتساب.",
-    "ميزة جديدة أخرى هنا..."
-  ]
+  "app": {
+    "latest_version": "1.2.0",
+    "download_url": "...",
+    "release_notes": [
+      "تم إصلاح مشكلة في إرسال المرفقات.",
+      "تحسين سرعة استجابة الواجهة.",
+      "إضافة دعم الرد على حالات الواتساب.",
+      "ميزة جديدة أخرى هنا..."
+    ]
+  },
+  "templates": {
+    "version": "1.2",
+    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/main/templates.js"
+  }
 }
