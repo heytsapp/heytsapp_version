@@ -1,0 +1,19 @@
+{
+  "app": {
+    "latest_version": "1.0.1",
+    "download_url": "https://heytsapp.com/download/",
+    "release_notes": [
+      "✨ إضافات جديدة",
+      "تم إصلاح مشكلة في إرسال المرفقات.",
+      "تحسين سرعة استجابة الواجهة."
+    ]
+  },
+  "templates": {
+    "version": "1.1",
+    "url": "https://raw.githubusercontent.com/heytsapp/templates_version/main/templates.js.enc"
+  },
+  "main_script": {
+    "version": "1.1",
+    "url": "https://raw.githubusercontent.com/heytsapp/your_repo/main/main_app_new.enc"
+  }
+}
