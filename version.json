@@ -12,7 +12,7 @@
     "version": "1.1",
     "url": "https://raw.githubusercontent.com/heytsapp/templates_version/main/templates.js.enc"
   },
-  "main_script": {
+  "main_templates": {
     "version": "1.1",
     "url": "https://raw.githubusercontent.com/heytsapp/your_repo/main/main_app_new.enc"
   }
