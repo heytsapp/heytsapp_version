@@ -9,7 +9,7 @@
     ]
   },
   "templates": {
-    "version": "1.2",
+    "version": "1.5",
     "url": "https://raw.githubusercontent.com/heytsapp/templates_version/main/templates.js.enc",
     "release_notes": [
       "✔️ تحسينات على واجهة البوت",
@@ -18,7 +18,7 @@
     ]
   },
   "main_templates": {
-    "version": "1.4",
+    "version": "1.5",
     "url": "https://raw.githubusercontent.com/heytsapp/templates_version/main/main_templates_new.enc",
     "release_notes": [
       "✔️ تحسينات على الكود الرئيسي",
