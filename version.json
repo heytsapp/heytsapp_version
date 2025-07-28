@@ -19,7 +19,7 @@
   },
   "main_templates": {
     "version": "1.0",
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_new.enc",
+    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc",
     "release_notes": [
       "✔️ تحسينات على الكود الرئيسي",
       "زيادة سرعة معالجة الرسائل الواردة.",
