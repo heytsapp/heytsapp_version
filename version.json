@@ -27,7 +27,7 @@
     ]
   },
   "hotfix": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc"
   }
 }
