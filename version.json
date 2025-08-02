@@ -18,8 +18,8 @@
     ]
   },
   "main_templates": {
-    "version": "1.0.1",
-    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc",
+    "version": "1.0.2",
+    "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
     "release_notes": [
       "✨ (جديد) إضافة رسائل القائمة التفاعلية.",
       "يمكن الآن إضافة 'قائمة' كعنصر جديد في تسلسل الرسائل.",
@@ -29,7 +29,7 @@
     ]
   },
   "hotfix": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc"
   }
 }
