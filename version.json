@@ -33,7 +33,7 @@
     ]
   },
   "hotfix": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates.enc",
     "release_date": "2025-08-06"
   }
