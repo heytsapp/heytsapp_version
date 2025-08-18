@@ -18,12 +18,13 @@
     ]
   },
   "main_templates": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
     "release_date": "2025-08-15",
     "release_notes": [
       "إصلاح خلل يؤدي أحيانًا لعدم الرد على بعض الرسائل",
-      "إصلاح مشكلة المتصفح داخل البرنامج"
+      "إصلاح مشكلة المتصفح داخل البرنامج",
+      "حل مشكل فشل ارسال الرسائل عند حذف المرفقات من مجلد النظام"
     ]
   },
   "hotfix": {
