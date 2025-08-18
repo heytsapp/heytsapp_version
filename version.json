@@ -12,7 +12,7 @@
   "templates": {
     "version": "1.0.1",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-    "release_date": "2025-08-15",
+    "release_date": "2025-08-18",
     "release_notes": [
       "تحسين طريقة التعرف على الرسائل الجديدة وغير المقروءة"
     ]
@@ -20,7 +20,7 @@
   "main_templates": {
     "version": "1.1.2",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
-    "release_date": "2025-08-15",
+    "release_date": "2025-08-18",
     "release_notes": [
       "إصلاح خلل يؤدي أحيانًا لعدم الرد على بعض الرسائل",
       "إصلاح مشكلة المتصفح داخل البرنامج",
