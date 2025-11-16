@@ -10,11 +10,11 @@
     ]
   },
   "templates": {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-    "release_date": "2025-09-12",
+    "release_date": "2025-11-16",
     "release_notes": [
-      "إصلاح مشكل فشل ارسال الرسائل"
+      "تحسين استقرار"
     ]
   },
   "main_templates": {
