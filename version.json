@@ -10,11 +10,11 @@
     ]
   },
   "templates": {
-    "version": "1.0.3194",
+    "version": "1.0.3197",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-    "release_date": "2026-01-10",
+    "release_date": "2026-01-15",
     "release_notes": [
-      "تم إصلاح خلل كان يمنع التعرف الصحيح على الرسائل الجديدة بعد آخر تحديث لواتساب، مما تسبب في تجاهل بعض الرسائل أو عدم معالجتها بشكل صحيح."
+      "تم إصلاح خلل كان يمنع اضهار الرسالة كمقروئة للطرف الأخر."
     ]
   },
   "main_templates": {
