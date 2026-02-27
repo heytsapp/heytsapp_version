@@ -10,11 +10,11 @@
     ]
   },
   "templates": {
-    "version": "1.0.3197",
+    "version": "1.0.3198",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-    "release_date": "2026-01-15",
+    "release_date": "2026-02-27",
     "release_notes": [
-      "تم إصلاح خلل كان يمنع اظهار الرسالة كمقروءة للطرف الأخر."
+      "اصلاح خلل عدم ارسال الرسائل."
     ]
   },
   "main_templates": {
