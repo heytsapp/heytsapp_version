@@ -10,9 +10,9 @@
     ]
   },
   "templates": {
-    "version": "1.0.3198",
+    "version": "1.1.441",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
-    "release_date": "2026-02-27",
+    "release_date": "2026-07-16",
     "release_notes": [
       "اصلاح خلل عدم ارسال الرسائل."
     ]
