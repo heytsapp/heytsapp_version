@@ -10,20 +10,19 @@
     ]
   },
   "templates": {
-    "version": "1.1.444",
+    "version": "1.1.450",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/templates.js.enc",
     "release_date": "2026-07-25",
     "release_notes": [
-      "حل مؤقت لمشكل تسجيل خروج واتساب بعد مسح رمز الاستجابة السريع"
+      "✨ إصلاح مشكلة الاتصال المتكرر بواتساب وعدم الاحتفاظ بالجلسة."
     ]
   },
   "main_templates": {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "url": "https://raw.githubusercontent.com/heytsapp/heytsapp_version/refs/heads/main/main_templates_user_update.enc",
     "release_date": "2026-07-25",
     "release_notes": [
-      "استخدم هذا الاصدار حتى صدور اصلاح نهائي",
-      "ملاحظة: سيضل المتصفح ظاهر في الواجعة عند عمل البوت (لا تغلق المتصفح)!"
+      "⚡ إصلاح ظهور المتصفح بشكل دائم وتحسين استقرار الإرسال والاتصال."
     ]
   },
   "hotfix": {
